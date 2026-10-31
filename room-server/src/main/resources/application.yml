@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: room-server
+
+logging:
+  level:
+    com.edhouse.room_server.domain.usecase.RoomService: DEBUG
